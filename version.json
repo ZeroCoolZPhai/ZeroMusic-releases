@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/ZeroCoolZPhai/ZeroMusic-releases/releases/download/v1.0.4/ZeroMusic-1.0.4-release.apk",
-  "sha256": "cd9729c0f2796556745d2ebf06761c36eb02c34ca22ee9300734f081acf8956a",
-  "changelog": "Merge dev-fix-bugs into main: bug fixes, keep-screen-on, YTM category chips, Taste Profile Up Next, and Auto-Update CI/CD",
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/ZeroCoolZPhai/ZeroMusic-releases/releases/download/v1.0.5/ZeroMusic-1.0.5-release.apk",
+  "sha256": "71a7c5161003a690f6fa687f220e979da13392899a2bc76bfed144b24aac2812",
+  "changelog": "Release v1.0.5: Harden MediaItem transition sync, listen outcome guard, category chip selection, SHA-256 update verification, and pause-aware progress polling",
   "mandatory": false
 }
