@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/ZeroCoolZPhai/ZeroMusic-releases/releases/download/v1.0.5/ZeroMusic-1.0.5-release.apk",
-  "sha256": "71a7c5161003a690f6fa687f220e979da13392899a2bc76bfed144b24aac2812",
-  "changelog": "Release v1.0.5: Harden MediaItem transition sync, listen outcome guard, category chip selection, SHA-256 update verification, and pause-aware progress polling",
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/ZeroCoolZPhai/ZeroMusic-releases/releases/download/v1.0.6/ZeroMusic-1.0.6-release.apk",
+  "sha256": "464d9a542c2b2b0a446759a10361b9f492928c08ed9bc9eab1d51e878f7a5583",
+  "changelog": "Release v1.0.6: Add personalized Home shelves (Quick Picks & Listen Again) and Pull-to-Refresh",
   "mandatory": false
 }
